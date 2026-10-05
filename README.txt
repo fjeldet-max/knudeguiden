@@ -1,1 +1,1 @@
-Knudeguiden til GitHub og Cloudflare Pages. Upload alle filer og mappen images til roden af repository. Startfil: index.html.
+Knudeguiden version 2.0. Alle 28 poster har trin for trin billede.
